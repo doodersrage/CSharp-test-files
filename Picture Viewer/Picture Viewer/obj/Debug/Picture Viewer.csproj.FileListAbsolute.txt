@@ -1,0 +1,9 @@
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\Picture Viewer\Picture Viewer\bin\Debug\Picture Viewer.exe.config
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\Picture Viewer\Picture Viewer\obj\Debug\Picture Viewer.csprojResolveAssemblyReference.cache
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\Picture Viewer\Picture Viewer\obj\Debug\Picture_Viewer.fclsViewer.resources
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\Picture Viewer\Picture Viewer\obj\Debug\Picture_Viewer.Properties.Resources.resources
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\Picture Viewer\Picture Viewer\obj\Debug\Picture Viewer.csproj.GenerateResource.Cache
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\Picture Viewer\Picture Viewer\bin\Debug\Picture Viewer.exe
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\Picture Viewer\Picture Viewer\bin\Debug\Picture Viewer.pdb
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\Picture Viewer\Picture Viewer\obj\Debug\Picture Viewer.exe
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\Picture Viewer\Picture Viewer\obj\Debug\Picture Viewer.pdb
