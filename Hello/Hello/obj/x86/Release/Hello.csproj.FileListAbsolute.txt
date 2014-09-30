@@ -1,0 +1,4 @@
+c:\users\robmcd7485\documents\visual studio 2010\Projects\Hello\Hello\bin\Release\Hello.exe
+c:\users\robmcd7485\documents\visual studio 2010\Projects\Hello\Hello\bin\Release\Hello.pdb
+c:\users\robmcd7485\documents\visual studio 2010\Projects\Hello\Hello\obj\x86\Release\Hello.exe
+c:\users\robmcd7485\documents\visual studio 2010\Projects\Hello\Hello\obj\x86\Release\Hello.pdb
