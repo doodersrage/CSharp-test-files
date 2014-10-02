@@ -1,0 +1,13 @@
+C:\Users\Joyce\AppData\Local\Temporary Projects\StudentsDemo3\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Joyce\AppData\Local\Temporary Projects\StudentsDemo3\obj\Release\StudentsDemo3.Form1.resources
+C:\Users\Joyce\AppData\Local\Temporary Projects\StudentsDemo3\obj\Release\StudentsDemo3.Properties.Resources.resources
+C:\Users\Joyce\AppData\Local\Temporary Projects\StudentsDemo3\obj\Release\StudentsDemo3.csproj.GenerateResource.Cache
+C:\Users\Joyce\AppData\Local\Temporary Projects\StudentsDemo3\bin\Release\CartmanCollege.accdb
+C:\Users\Joyce\AppData\Local\Temporary Projects\StudentsDemo3\bin\Release\StudentsDemo3.exe.config
+C:\Users\Joyce\AppData\Local\Temporary Projects\StudentsDemo3\bin\Release\StudentsDemo3.exe
+C:\Users\Joyce\AppData\Local\Temporary Projects\StudentsDemo3\bin\Release\StudentsDemo3.pdb
+C:\Users\Joyce\AppData\Local\Temporary Projects\StudentsDemo3\obj\Release\StudentsDemo3.exe
+C:\Users\Joyce\AppData\Local\Temporary Projects\StudentsDemo3\obj\Release\StudentsDemo3.pdb
+C:\CSharp3\Chapter14\CSharp3eChapter14AuthorFirst\CSharp3eChapter14StudentFiles\CSharp3eChapter14CodeInFigures\StudentsDemo3\StudentsDemo3\bin\Release\StudentsDemo3.exe.config
+C:\CSharp3\Chapter14\CSharp3eChapter14AuthorFirst\CSharp3eChapter14StudentFiles\CSharp3eChapter14CodeInFigures\StudentsDemo3\StudentsDemo3\obj\Release\StudentsDemo3.exe
+C:\CSharp3\Chapter14\CSharp3eChapter14AuthorFirst\CSharp3eChapter14StudentFiles\CSharp3eChapter14CodeInFigures\StudentsDemo3\StudentsDemo3\obj\Release\StudentsDemo3.pdb

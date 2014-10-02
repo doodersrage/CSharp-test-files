@@ -1,0 +1,4 @@
+H:\CSharp-test-files\Unit 1 – Assignment\Chapter 2 Exercise 6\Chapter 2 Exercise 6\bin\Debug\Chapter 2 Exercise 6.exe
+H:\CSharp-test-files\Unit 1 – Assignment\Chapter 2 Exercise 6\Chapter 2 Exercise 6\bin\Debug\Chapter 2 Exercise 6.pdb
+H:\CSharp-test-files\Unit 1 – Assignment\Chapter 2 Exercise 6\Chapter 2 Exercise 6\obj\x86\Debug\Chapter 2 Exercise 6.exe
+H:\CSharp-test-files\Unit 1 – Assignment\Chapter 2 Exercise 6\Chapter 2 Exercise 6\obj\x86\Debug\Chapter 2 Exercise 6.pdb

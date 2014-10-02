@@ -1,0 +1,8 @@
+C:\CSharp3\Chapter11\PattysPizza\PattysPizza\obj\Release\ResolveAssemblyReference.cache
+C:\CSharp3\Chapter11\PattysPizza\PattysPizza\obj\Release\PattysPizza.Form1.resources
+C:\CSharp3\Chapter11\PattysPizza\PattysPizza\obj\Release\PattysPizza.Properties.Resources.resources
+C:\CSharp3\Chapter11\PattysPizza\PattysPizza\obj\Release\PattysPizza.csproj.GenerateResource.Cache
+C:\CSharp3\Chapter11\PattysPizza\PattysPizza\bin\Release\PattysPizza.exe
+C:\CSharp3\Chapter11\PattysPizza\PattysPizza\bin\Release\PattysPizza.pdb
+C:\CSharp3\Chapter11\PattysPizza\PattysPizza\obj\Release\PattysPizza.exe
+C:\CSharp3\Chapter11\PattysPizza\PattysPizza\obj\Release\PattysPizza.pdb

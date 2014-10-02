@@ -1,0 +1,8 @@
+bin\Release\FixedDebugEleven3.exe
+bin\Release\FixedDebugEleven3.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\FixedDebugEleven3.Form1.resources
+obj\Release\FixedDebugEleven3.Properties.Resources.resources
+obj\Release\FixedDebugEleven3.csproj.GenerateResource.Cache
+obj\Release\FixedDebugEleven3.exe
+obj\Release\FixedDebugEleven3.pdb

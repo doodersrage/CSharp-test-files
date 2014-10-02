@@ -1,0 +1,10 @@
+C:\Users\Joyce\AppData\Local\Temporary Projects\ComboBoxAndCheckedListBoxDemo\bin\Release\ComboBoxAndCheckedListBoxDemo.exe
+C:\Users\Joyce\AppData\Local\Temporary Projects\ComboBoxAndCheckedListBoxDemo\bin\Release\ComboBoxAndCheckedListBoxDemo.pdb
+C:\Users\Joyce\AppData\Local\Temporary Projects\ComboBoxAndCheckedListBoxDemo\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Joyce\AppData\Local\Temporary Projects\ComboBoxAndCheckedListBoxDemo\obj\Release\ComboBoxAndCheckedListBoxDemo.Form1.resources
+C:\Users\Joyce\AppData\Local\Temporary Projects\ComboBoxAndCheckedListBoxDemo\obj\Release\ComboBoxAndCheckedListBoxDemo.Properties.Resources.resources
+C:\Users\Joyce\AppData\Local\Temporary Projects\ComboBoxAndCheckedListBoxDemo\obj\Release\ComboBoxAndCheckedListBoxDemo.csproj.GenerateResource.Cache
+C:\Users\Joyce\AppData\Local\Temporary Projects\ComboBoxAndCheckedListBoxDemo\obj\Release\ComboBoxAndCheckedListBoxDemo.exe
+C:\Users\Joyce\AppData\Local\Temporary Projects\ComboBoxAndCheckedListBoxDemo\obj\Release\ComboBoxAndCheckedListBoxDemo.pdb
+C:\CSharp3\Chapter11\ComboBoxAndCheckedListBoxDemo\ComboBoxAndCheckedListBoxDemo\obj\Release\ComboBoxAndCheckedListBoxDemo.exe
+C:\CSharp3\Chapter11\ComboBoxAndCheckedListBoxDemo\ComboBoxAndCheckedListBoxDemo\obj\Release\ComboBoxAndCheckedListBoxDemo.pdb

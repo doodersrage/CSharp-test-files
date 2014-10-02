@@ -1,0 +1,16 @@
+C:\Users\Joyce\AppData\Local\Temporary Projects\MenuStripDemo\bin\Release\MenuStripDemo.exe
+C:\Users\Joyce\AppData\Local\Temporary Projects\MenuStripDemo\bin\Release\MenuStripDemo.pdb
+C:\Users\Joyce\AppData\Local\Temporary Projects\MenuStripDemo\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Joyce\AppData\Local\Temporary Projects\MenuStripDemo\obj\Release\MenuStripDemo.Form1.resources
+C:\Users\Joyce\AppData\Local\Temporary Projects\MenuStripDemo\obj\Release\MenuStripDemo.Properties.Resources.resources
+C:\Users\Joyce\AppData\Local\Temporary Projects\MenuStripDemo\obj\Release\MenuStripDemo.csproj.GenerateResource.Cache
+C:\Users\Joyce\AppData\Local\Temporary Projects\MenuStripDemo\obj\Release\MenuStripDemo.exe
+C:\Users\Joyce\AppData\Local\Temporary Projects\MenuStripDemo\obj\Release\MenuStripDemo.pdb
+C:\CSharp3\Chapter11\CSharp3eChapter11AuthorFirst\CSharp3eChapter11StudentFiles\CSharp3eChapter11CodeInFigures\MenuStripDemo\MenuStripDemo\obj\Release\MenuStripDemo.exe
+C:\CSharp3\Chapter11\CSharp3eChapter11AuthorFirst\CSharp3eChapter11StudentFiles\CSharp3eChapter11CodeInFigures\MenuStripDemo\MenuStripDemo\obj\Release\MenuStripDemo.pdb
+C:\CSharp3\Chapter11\CSharp3eChapter11AuthorFirst\CSharp3eChapter11StudentFiles\CSharp3eChapter11CodeInFigures\MenuStripDemo\MenuStripDemo\bin\Release\MenuStripDemo.exe
+C:\CSharp3\Chapter11\CSharp3eChapter11AuthorFirst\CSharp3eChapter11StudentFiles\CSharp3eChapter11CodeInFigures\MenuStripDemo\MenuStripDemo\bin\Release\MenuStripDemo.pdb
+C:\CSharp3\Chapter11\CSharp3eChapter11AuthorFirst\CSharp3eChapter11StudentFiles\CSharp3eChapter11CodeInFigures\MenuStripDemo\MenuStripDemo\obj\Release\ResolveAssemblyReference.cache
+C:\CSharp3\Chapter11\CSharp3eChapter11AuthorFirst\CSharp3eChapter11StudentFiles\CSharp3eChapter11CodeInFigures\MenuStripDemo\MenuStripDemo\obj\Release\MenuStripDemo.Form1.resources
+C:\CSharp3\Chapter11\CSharp3eChapter11AuthorFirst\CSharp3eChapter11StudentFiles\CSharp3eChapter11CodeInFigures\MenuStripDemo\MenuStripDemo\obj\Release\MenuStripDemo.Properties.Resources.resources
+C:\CSharp3\Chapter11\CSharp3eChapter11AuthorFirst\CSharp3eChapter11StudentFiles\CSharp3eChapter11CodeInFigures\MenuStripDemo\MenuStripDemo\obj\Release\MenuStripDemo.csproj.GenerateResource.Cache

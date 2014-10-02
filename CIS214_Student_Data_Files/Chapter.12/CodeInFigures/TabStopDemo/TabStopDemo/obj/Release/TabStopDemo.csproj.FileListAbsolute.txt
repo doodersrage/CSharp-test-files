@@ -1,0 +1,10 @@
+C:\Users\Joyce\AppData\Local\Temporary Projects\TabStopDemo\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Joyce\AppData\Local\Temporary Projects\TabStopDemo\obj\Release\TabStopDemo.Form1.resources
+C:\Users\Joyce\AppData\Local\Temporary Projects\TabStopDemo\obj\Release\TabStopDemo.Properties.Resources.resources
+C:\Users\Joyce\AppData\Local\Temporary Projects\TabStopDemo\obj\Release\TabStopDemo.csproj.GenerateResource.Cache
+C:\Users\Joyce\AppData\Local\Temporary Projects\TabStopDemo\bin\Release\TabStopDemo.exe
+C:\Users\Joyce\AppData\Local\Temporary Projects\TabStopDemo\bin\Release\TabStopDemo.pdb
+C:\Users\Joyce\AppData\Local\Temporary Projects\TabStopDemo\obj\Release\TabStopDemo.exe
+C:\Users\Joyce\AppData\Local\Temporary Projects\TabStopDemo\obj\Release\TabStopDemo.pdb
+C:\CSharp3\Chapter12\TabStopDemo\TabStopDemo\obj\Release\TabStopDemo.exe
+C:\CSharp3\Chapter12\TabStopDemo\TabStopDemo\obj\Release\TabStopDemo.pdb

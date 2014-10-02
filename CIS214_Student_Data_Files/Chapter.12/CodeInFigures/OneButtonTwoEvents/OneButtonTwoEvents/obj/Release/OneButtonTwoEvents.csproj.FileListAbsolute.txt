@@ -1,0 +1,8 @@
+C:\Users\Joyce\AppData\Local\Temporary Projects\OneButtonTwoEvents\bin\Release\OneButtonTwoEvents.exe
+C:\Users\Joyce\AppData\Local\Temporary Projects\OneButtonTwoEvents\bin\Release\OneButtonTwoEvents.pdb
+C:\Users\Joyce\AppData\Local\Temporary Projects\OneButtonTwoEvents\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Joyce\AppData\Local\Temporary Projects\OneButtonTwoEvents\obj\Release\OneButtonTwoEvents.Form1.resources
+C:\Users\Joyce\AppData\Local\Temporary Projects\OneButtonTwoEvents\obj\Release\OneButtonTwoEvents.Properties.Resources.resources
+C:\Users\Joyce\AppData\Local\Temporary Projects\OneButtonTwoEvents\obj\Release\OneButtonTwoEvents.csproj.GenerateResource.Cache
+C:\Users\Joyce\AppData\Local\Temporary Projects\OneButtonTwoEvents\obj\Release\OneButtonTwoEvents.exe
+C:\Users\Joyce\AppData\Local\Temporary Projects\OneButtonTwoEvents\obj\Release\OneButtonTwoEvents.pdb

@@ -1,0 +1,8 @@
+C:\Users\Joyce\AppData\Local\Temporary Projects\SnapLineDemo\bin\Release\SnapLineDemo.exe
+C:\Users\Joyce\AppData\Local\Temporary Projects\SnapLineDemo\bin\Release\SnapLineDemo.pdb
+C:\Users\Joyce\AppData\Local\Temporary Projects\SnapLineDemo\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Joyce\AppData\Local\Temporary Projects\SnapLineDemo\obj\Release\SnapLineDemo.Form1.resources
+C:\Users\Joyce\AppData\Local\Temporary Projects\SnapLineDemo\obj\Release\SnapLineDemo.Properties.Resources.resources
+C:\Users\Joyce\AppData\Local\Temporary Projects\SnapLineDemo\obj\Release\SnapLineDemo.csproj.GenerateResource.Cache
+C:\Users\Joyce\AppData\Local\Temporary Projects\SnapLineDemo\obj\Release\SnapLineDemo.exe
+C:\Users\Joyce\AppData\Local\Temporary Projects\SnapLineDemo\obj\Release\SnapLineDemo.pdb

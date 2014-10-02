@@ -1,0 +1,16 @@
+C:\Users\Joyce\AppData\Local\Temporary Projects\Form With Link Labels\bin\Release\Form With Link Labels.exe
+C:\Users\Joyce\AppData\Local\Temporary Projects\Form With Link Labels\bin\Release\Form With Link Labels.pdb
+C:\Users\Joyce\AppData\Local\Temporary Projects\Form With Link Labels\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Joyce\AppData\Local\Temporary Projects\Form With Link Labels\obj\Release\Form_With_Link_Labels.Form1.resources
+C:\Users\Joyce\AppData\Local\Temporary Projects\Form With Link Labels\obj\Release\Form_With_Link_Labels.Properties.Resources.resources
+C:\Users\Joyce\AppData\Local\Temporary Projects\Form With Link Labels\obj\Release\Form With Link Labels.csproj.GenerateResource.Cache
+C:\Users\Joyce\AppData\Local\Temporary Projects\Form With Link Labels\obj\Release\Form With Link Labels.exe
+C:\Users\Joyce\AppData\Local\Temporary Projects\Form With Link Labels\obj\Release\Form With Link Labels.pdb
+C:\CSharp3\Chapter11\FormWithLinkLabels\Form With Link Labels\obj\Release\Form With Link Labels.exe
+C:\CSharp3\Chapter11\FormWithLinkLabels\Form With Link Labels\obj\Release\Form With Link Labels.pdb
+C:\CSharp3\Chapter11\FormWithLinkLabels\Form With Link Labels\bin\Release\Form With Link Labels.exe
+C:\CSharp3\Chapter11\FormWithLinkLabels\Form With Link Labels\bin\Release\Form With Link Labels.pdb
+C:\CSharp3\Chapter11\FormWithLinkLabels\Form With Link Labels\obj\Release\ResolveAssemblyReference.cache
+C:\CSharp3\Chapter11\FormWithLinkLabels\Form With Link Labels\obj\Release\Form_With_Link_Labels.Form1.resources
+C:\CSharp3\Chapter11\FormWithLinkLabels\Form With Link Labels\obj\Release\Form_With_Link_Labels.Properties.Resources.resources
+C:\CSharp3\Chapter11\FormWithLinkLabels\Form With Link Labels\obj\Release\Form With Link Labels.csproj.GenerateResource.Cache

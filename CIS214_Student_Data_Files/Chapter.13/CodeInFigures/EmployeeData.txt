@@ -1,0 +1,3 @@
+324,LaFreniere,35.55
+512,Fortune,21.85
+802,Cox,19.35

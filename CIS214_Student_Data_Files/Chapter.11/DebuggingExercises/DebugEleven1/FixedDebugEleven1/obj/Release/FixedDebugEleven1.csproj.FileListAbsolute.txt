@@ -1,0 +1,10 @@
+C:\CSharp3\Chapter11\CSharp3eChapter11Solutions\FixedDebugEleven1\FixedDebugEleven1\obj\Release\FixedDebugEleven1.exe
+C:\CSharp3\Chapter11\CSharp3eChapter11Solutions\FixedDebugEleven1\FixedDebugEleven1\obj\Release\FixedDebugEleven1.pdb
+C:\CSharp3\Chapter11\CSharp3eChapter11Solutions\FixedDebugEleven1\FixedDebugEleven1\bin\Release\FixedDebugEleven1.exe
+C:\CSharp3\Chapter11\CSharp3eChapter11Solutions\FixedDebugEleven1\FixedDebugEleven1\bin\Release\FixedDebugEleven1.pdb
+C:\CSharp3\Chapter11\CSharp3eChapter11Solutions\FixedDebugEleven1\FixedDebugEleven1\obj\Release\ResolveAssemblyReference.cache
+C:\CSharp3\Chapter11\CSharp3eChapter11Solutions\FixedDebugEleven1\FixedDebugEleven1\obj\Release\FixedDebugEleven1.Form1.resources
+C:\CSharp3\Chapter11\CSharp3eChapter11Solutions\FixedDebugEleven1\FixedDebugEleven1\obj\Release\FixedDebugEleven1.Properties.Resources.resources
+C:\CSharp3\Chapter11\CSharp3eChapter11Solutions\FixedDebugEleven1\FixedDebugEleven1\obj\Release\FixedDebugEleven1.csproj.GenerateResource.Cache
+C:\CSharp3\Chapter11\CSharp3eChapter11StudentFiles\DebugEleven1\FixedDebugEleven1\obj\Release\FixedDebugEleven1.exe
+C:\CSharp3\Chapter11\CSharp3eChapter11StudentFiles\DebugEleven1\FixedDebugEleven1\obj\Release\FixedDebugEleven1.pdb

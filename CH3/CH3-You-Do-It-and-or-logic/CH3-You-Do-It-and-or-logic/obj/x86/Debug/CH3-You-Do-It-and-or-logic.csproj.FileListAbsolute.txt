@@ -1,0 +1,4 @@
+H:\CSharp-test-files\CH3\CH3-You-Do-It-and-or-logic\CH3-You-Do-It-and-or-logic\bin\Debug\CH3-You-Do-It-and-or-logic.exe
+H:\CSharp-test-files\CH3\CH3-You-Do-It-and-or-logic\CH3-You-Do-It-and-or-logic\bin\Debug\CH3-You-Do-It-and-or-logic.pdb
+H:\CSharp-test-files\CH3\CH3-You-Do-It-and-or-logic\CH3-You-Do-It-and-or-logic\obj\x86\Debug\CH3-You-Do-It-and-or-logic.exe
+H:\CSharp-test-files\CH3\CH3-You-Do-It-and-or-logic\CH3-You-Do-It-and-or-logic\obj\x86\Debug\CH3-You-Do-It-and-or-logic.pdb

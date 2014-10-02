@@ -1,0 +1,10 @@
+C:\CSharp2e\Chapter.10\CSharpChapter10AuthorFirst\Solutions\DebuggingExercises\FixedDebugTen4\FixedDebugTen4\obj\Release\FixedDebugTen4.exe
+C:\CSharp2e\Chapter.10\CSharpChapter10AuthorFirst\Solutions\DebuggingExercises\FixedDebugTen4\FixedDebugTen4\obj\Release\FixedDebugTen4.pdb
+C:\CSharp2e\Chapter.10\CSharpChapter10AuthorFirst\Solutions\DebuggingExercises\FixedDebugTen4\FixedDebugTen4\bin\Release\FixedDebugTen4.exe
+C:\CSharp2e\Chapter.10\CSharpChapter10AuthorFirst\Solutions\DebuggingExercises\FixedDebugTen4\FixedDebugTen4\bin\Release\FixedDebugTen4.pdb
+C:\CSharp2e\Chapter.10\CSharpChapter10AuthorFirst\Solutions\DebuggingExercises\FixedDebugTen4\FixedDebugTen4\obj\Release\ResolveAssemblyReference.cache
+C:\CSharp2e\Chapter.10\CSharpChapter10AuthorFirst\Solutions\DebuggingExercises\FixedDebugTen4\FixedDebugTen4\obj\Release\FixedDebugTen4.Form1.resources
+C:\CSharp2e\Chapter.10\CSharpChapter10AuthorFirst\Solutions\DebuggingExercises\FixedDebugTen4\FixedDebugTen4\obj\Release\FixedDebugTen4.Properties.Resources.resources
+C:\CSharp2e\Chapter.10\CSharpChapter10AuthorFirst\Solutions\DebuggingExercises\FixedDebugTen4\FixedDebugTen4\obj\Release\FixedDebugTen4.csproj.GenerateResource.Cache
+C:\CSharp3\Chapter10\CSharp3eChapter10StudentFiles\DebuggingExercises\FixedDebugTen4\FixedDebugTen4\obj\Release\FixedDebugTen4.exe
+C:\CSharp3\Chapter10\CSharp3eChapter10StudentFiles\DebuggingExercises\FixedDebugTen4\FixedDebugTen4\obj\Release\FixedDebugTen4.pdb

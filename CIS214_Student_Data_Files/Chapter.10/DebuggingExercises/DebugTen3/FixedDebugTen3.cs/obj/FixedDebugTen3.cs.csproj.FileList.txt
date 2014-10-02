@@ -1,0 +1,2 @@
+obj\Release\FixedDebugTen3.cs.exe
+obj\Release\FixedDebugTen3.cs.pdb

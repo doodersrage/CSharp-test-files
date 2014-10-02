@@ -1,0 +1,4 @@
+H:\CSharp-test-files\CH3\CH3-You-Do-It\CH3-You-Do-It\bin\Debug\CH3-You-Do-It.exe
+H:\CSharp-test-files\CH3\CH3-You-Do-It\CH3-You-Do-It\bin\Debug\CH3-You-Do-It.pdb
+H:\CSharp-test-files\CH3\CH3-You-Do-It\CH3-You-Do-It\obj\x86\Debug\CH3-You-Do-It.exe
+H:\CSharp-test-files\CH3\CH3-You-Do-It\CH3-You-Do-It\obj\x86\Debug\CH3-You-Do-It.pdb

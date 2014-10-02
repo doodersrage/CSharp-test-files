@@ -1,0 +1,13 @@
+C:\CSharp3\Chapter14\StudentsDemo6\StudentsDemo6\bin\Release\StudentsDemo6.exe.config
+C:\CSharp3\Chapter14\StudentsDemo6\StudentsDemo6\bin\Release\CartmanCollege.accdb
+C:\CSharp3\Chapter14\StudentsDemo6\StudentsDemo6\bin\Release\StudentsDemo6.exe
+C:\CSharp3\Chapter14\StudentsDemo6\StudentsDemo6\bin\Release\StudentsDemo6.pdb
+C:\CSharp3\Chapter14\StudentsDemo6\StudentsDemo6\obj\Release\ResolveAssemblyReference.cache
+C:\CSharp3\Chapter14\StudentsDemo6\StudentsDemo6\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\CSharp3\Chapter14\StudentsDemo6\StudentsDemo6\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\CSharp3\Chapter14\StudentsDemo6\StudentsDemo6\obj\Release\StudentsDemo6.csproj.GenerateResource.Cache
+C:\CSharp3\Chapter14\StudentsDemo6\StudentsDemo6\obj\Release\StudentsDemo6.exe
+C:\CSharp3\Chapter14\StudentsDemo6\StudentsDemo6\obj\Release\StudentsDemo6.pdb
+C:\CSharp3\Chapter14\CSharp3eChapter14AuthorFirst\CSharp3eChapter14StudentFiles\CSharp3eChapter14CodeInFigures\StudentsDemo6\StudentsDemo6\bin\Release\StudentsDemo6.exe.config
+C:\CSharp3\Chapter14\CSharp3eChapter14AuthorFirst\CSharp3eChapter14StudentFiles\CSharp3eChapter14CodeInFigures\StudentsDemo6\StudentsDemo6\obj\Release\StudentsDemo6.exe
+C:\CSharp3\Chapter14\CSharp3eChapter14AuthorFirst\CSharp3eChapter14StudentFiles\CSharp3eChapter14CodeInFigures\StudentsDemo6\StudentsDemo6\obj\Release\StudentsDemo6.pdb

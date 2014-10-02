@@ -1,0 +1,16 @@
+C:\Users\Joyce\AppData\Local\Temporary Projects\DockDemo\bin\Release\DockDemo.exe
+C:\Users\Joyce\AppData\Local\Temporary Projects\DockDemo\bin\Release\DockDemo.pdb
+C:\Users\Joyce\AppData\Local\Temporary Projects\DockDemo\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Joyce\AppData\Local\Temporary Projects\DockDemo\obj\Release\DockDemo.Form1.resources
+C:\Users\Joyce\AppData\Local\Temporary Projects\DockDemo\obj\Release\DockDemo.Properties.Resources.resources
+C:\Users\Joyce\AppData\Local\Temporary Projects\DockDemo\obj\Release\DockDemo.csproj.GenerateResource.Cache
+C:\Users\Joyce\AppData\Local\Temporary Projects\DockDemo\obj\Release\DockDemo.exe
+C:\Users\Joyce\AppData\Local\Temporary Projects\DockDemo\obj\Release\DockDemo.pdb
+C:\CSharp3\Chapter11\DockDemo\DockDemo\obj\Release\DockDemo.exe
+C:\CSharp3\Chapter11\DockDemo\DockDemo\obj\Release\DockDemo.pdb
+C:\CSharp3\Chapter11\DockDemo\DockDemo\bin\Release\DockDemo.exe
+C:\CSharp3\Chapter11\DockDemo\DockDemo\bin\Release\DockDemo.pdb
+C:\CSharp3\Chapter11\DockDemo\DockDemo\obj\Release\ResolveAssemblyReference.cache
+C:\CSharp3\Chapter11\DockDemo\DockDemo\obj\Release\DockDemo.Form1.resources
+C:\CSharp3\Chapter11\DockDemo\DockDemo\obj\Release\DockDemo.Properties.Resources.resources
+C:\CSharp3\Chapter11\DockDemo\DockDemo\obj\Release\DockDemo.csproj.GenerateResource.Cache

@@ -1,0 +1,18 @@
+C:\Users\Joyce\AppData\Local\Temporary Projects\ManyButtons\bin\Release\ManyButtons.exe
+C:\Users\Joyce\AppData\Local\Temporary Projects\ManyButtons\bin\Release\ManyButtons.pdb
+C:\Users\Joyce\AppData\Local\Temporary Projects\ManyButtons\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Joyce\AppData\Local\Temporary Projects\ManyButtons\obj\Release\ManyButtons.Form1.resources
+C:\Users\Joyce\AppData\Local\Temporary Projects\ManyButtons\obj\Release\ManyButtons.Properties.Resources.resources
+C:\Users\Joyce\AppData\Local\Temporary Projects\ManyButtons\obj\Release\ManyButtons.csproj.GenerateResource.Cache
+C:\Users\Joyce\AppData\Local\Temporary Projects\ManyButtons\obj\Release\ManyButtons.exe
+C:\Users\Joyce\AppData\Local\Temporary Projects\ManyButtons\obj\Release\ManyButtons.pdb
+C:\CSharp3\Chapter12\ManyButtons\ManyButtons\obj\Release\ManyButtons.exe
+C:\CSharp3\Chapter12\ManyButtons\ManyButtons\obj\Release\ManyButtons.pdb
+C:\CSharp3\Chapter12\ManyButtons\ManyButtons\bin\Release\ManyButtons.exe
+C:\CSharp3\Chapter12\ManyButtons\ManyButtons\bin\Release\ManyButtons.pdb
+C:\CSharp3\Chapter12\ManyButtons\ManyButtons\obj\Release\ResolveAssemblyReference.cache
+C:\CSharp3\Chapter12\ManyButtons\ManyButtons\obj\Release\ManyButtons.Form1.resources
+C:\CSharp3\Chapter12\ManyButtons\ManyButtons\obj\Release\ManyButtons.Properties.Resources.resources
+C:\CSharp3\Chapter12\ManyButtons\ManyButtons\obj\Release\ManyButtons.csproj.GenerateResource.Cache
+C:\CSharp3\Chapter12\CSharp3eChapter12SudentFiles\CSharp3eChapter12CodeInFigures\ManyButtons\ManyButtons\obj\Release\ManyButtons.exe
+C:\CSharp3\Chapter12\CSharp3eChapter12SudentFiles\CSharp3eChapter12CodeInFigures\ManyButtons\ManyButtons\obj\Release\ManyButtons.pdb

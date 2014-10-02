@@ -1,0 +1,2 @@
+obj\Release\FixedDebugEleven1.exe
+obj\Release\FixedDebugEleven1.pdb

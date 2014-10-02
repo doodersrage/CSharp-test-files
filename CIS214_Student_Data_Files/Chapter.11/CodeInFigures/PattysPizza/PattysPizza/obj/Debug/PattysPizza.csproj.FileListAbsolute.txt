@@ -1,0 +1,10 @@
+C:\Users\Joyce\AppData\Local\Temporary Projects\PattysPizza\bin\Debug\PattysPizza.exe
+C:\Users\Joyce\AppData\Local\Temporary Projects\PattysPizza\bin\Debug\PattysPizza.pdb
+C:\Users\Joyce\AppData\Local\Temporary Projects\PattysPizza\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Joyce\AppData\Local\Temporary Projects\PattysPizza\obj\Debug\PattysPizza.Form1.resources
+C:\Users\Joyce\AppData\Local\Temporary Projects\PattysPizza\obj\Debug\PattysPizza.Properties.Resources.resources
+C:\Users\Joyce\AppData\Local\Temporary Projects\PattysPizza\obj\Debug\PattysPizza.csproj.GenerateResource.Cache
+C:\Users\Joyce\AppData\Local\Temporary Projects\PattysPizza\obj\Debug\PattysPizza.exe
+C:\Users\Joyce\AppData\Local\Temporary Projects\PattysPizza\obj\Debug\PattysPizza.pdb
+C:\CSharp3\Chapter11\PattysPizza\PattysPizza\obj\Debug\PattysPizza.exe
+C:\CSharp3\Chapter11\PattysPizza\PattysPizza\obj\Debug\PattysPizza.pdb
