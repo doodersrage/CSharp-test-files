@@ -9,30 +9,33 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            double sales, commission;
-            string inputString;
-            const int LOWSALES = 1000;
-            const int MEDSALES = 5000;
-            const int HIGHSALES = 10000;
-            const double LOWPCT = 0.05;
-            const double MEDPCT = 0.07;
-            const double HIGHPCT = 0.10;
-            const int BONUS1 = 1000;
-            const int BONUS2 = 1500;
-            Console.WriteLine("What was the sales amount? ");
-            inputString = Console.ReadLine();
-            sales = Convert.ToDouble(inputString);
-            commission = LOWPCT * HIGHPCT;
-            if (sales < LOWSALES)
-                commission += (sales = LOWSALES) * MEDPCT;
-            if (sales < MEDSALES)
-                commission += BONUS1;
-            else
-                if (sales > HIGHSALES)
-                    commission += BONUS2;
-            Console.WriteLine("Sales: {0}\nCommission: {1}", sales.ToString("C"), commission.ToString("C"));
+            const int QUIT = 999;
+            int[] numbers = new int[20];
+            int x;
+            int num = 0;
+            double average;
+            double total = 0;
+            string inString;
+            x = 0;
+            do
+            {
+                Console.Write("Please enter a number or " + QUIT + " to quit...");
+                inString = Console.ReadLine();
+                num = Convert.ToInt32(inString);
+                if (num == QUIT) break;
+                numbers[x] = num;
+                total += numbers[x];
+                ++x;
+
+            } while (x < numbers.Length);
+            Console.WriteLine("The numbers are:");
+            for (int y = 0; y < x; ++y)
+                Console.Write("{0,6}", numbers[y]);
+            average = total / x;
+            Console.WriteLine();
+            Console.WriteLine("The average is {0}", average);  
 
             Console.ReadLine();
-        }
+         }
     }
 }

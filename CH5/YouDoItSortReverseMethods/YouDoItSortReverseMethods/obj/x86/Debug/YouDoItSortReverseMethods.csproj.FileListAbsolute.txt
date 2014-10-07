@@ -1,0 +1,4 @@
+H:\CSharp-test-files\CH5\YouDoItSortReverseMethods\YouDoItSortReverseMethods\bin\Debug\YouDoItSortReverseMethods.exe
+H:\CSharp-test-files\CH5\YouDoItSortReverseMethods\YouDoItSortReverseMethods\bin\Debug\YouDoItSortReverseMethods.pdb
+H:\CSharp-test-files\CH5\YouDoItSortReverseMethods\YouDoItSortReverseMethods\obj\x86\Debug\YouDoItSortReverseMethods.exe
+H:\CSharp-test-files\CH5\YouDoItSortReverseMethods\YouDoItSortReverseMethods\obj\x86\Debug\YouDoItSortReverseMethods.pdb

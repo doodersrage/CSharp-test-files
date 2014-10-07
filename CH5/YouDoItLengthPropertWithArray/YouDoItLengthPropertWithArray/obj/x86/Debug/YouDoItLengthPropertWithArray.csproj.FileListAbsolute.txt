@@ -1,0 +1,4 @@
+H:\CSharp-test-files\CH5\YouDoItLengthPropertWithArray\YouDoItLengthPropertWithArray\bin\Debug\YouDoItLengthPropertWithArray.exe
+H:\CSharp-test-files\CH5\YouDoItLengthPropertWithArray\YouDoItLengthPropertWithArray\bin\Debug\YouDoItLengthPropertWithArray.pdb
+H:\CSharp-test-files\CH5\YouDoItLengthPropertWithArray\YouDoItLengthPropertWithArray\obj\x86\Debug\YouDoItLengthPropertWithArray.exe
+H:\CSharp-test-files\CH5\YouDoItLengthPropertWithArray\YouDoItLengthPropertWithArray\obj\x86\Debug\YouDoItLengthPropertWithArray.pdb

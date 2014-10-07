@@ -1,0 +1,4 @@
+H:\CSharp-test-files\CH5\YouDoItUsingAnArray\YouDoItUsingAnArray\bin\Debug\YouDoItUsingAnArray.exe
+H:\CSharp-test-files\CH5\YouDoItUsingAnArray\YouDoItUsingAnArray\bin\Debug\YouDoItUsingAnArray.pdb
+H:\CSharp-test-files\CH5\YouDoItUsingAnArray\YouDoItUsingAnArray\obj\x86\Debug\YouDoItUsingAnArray.exe
+H:\CSharp-test-files\CH5\YouDoItUsingAnArray\YouDoItUsingAnArray\obj\x86\Debug\YouDoItUsingAnArray.pdb

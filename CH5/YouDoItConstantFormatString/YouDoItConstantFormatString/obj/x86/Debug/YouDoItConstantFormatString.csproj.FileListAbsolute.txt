@@ -1,0 +1,4 @@
+H:\CSharp-test-files\CH5\YouDoItConstantFormatString\YouDoItConstantFormatString\bin\Debug\YouDoItConstantFormatString.exe
+H:\CSharp-test-files\CH5\YouDoItConstantFormatString\YouDoItConstantFormatString\bin\Debug\YouDoItConstantFormatString.pdb
+H:\CSharp-test-files\CH5\YouDoItConstantFormatString\YouDoItConstantFormatString\obj\x86\Debug\YouDoItConstantFormatString.exe
+H:\CSharp-test-files\CH5\YouDoItConstantFormatString\YouDoItConstantFormatString\obj\x86\Debug\YouDoItConstantFormatString.pdb

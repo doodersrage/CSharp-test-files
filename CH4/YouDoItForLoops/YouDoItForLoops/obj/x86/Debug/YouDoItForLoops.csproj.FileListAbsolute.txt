@@ -1,0 +1,4 @@
+H:\CSharp-test-files\CH4\YouDoItForLoops\YouDoItForLoops\bin\Debug\YouDoItForLoops.exe
+H:\CSharp-test-files\CH4\YouDoItForLoops\YouDoItForLoops\bin\Debug\YouDoItForLoops.pdb
+H:\CSharp-test-files\CH4\YouDoItForLoops\YouDoItForLoops\obj\x86\Debug\YouDoItForLoops.exe
+H:\CSharp-test-files\CH4\YouDoItForLoops\YouDoItForLoops\obj\x86\Debug\YouDoItForLoops.pdb
