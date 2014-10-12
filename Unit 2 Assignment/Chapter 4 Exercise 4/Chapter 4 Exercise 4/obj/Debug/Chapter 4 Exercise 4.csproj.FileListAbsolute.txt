@@ -1,0 +1,6 @@
+\\vmware-host\Shared Folders\Desktop\Unit 2 Assignment\Chapter 4 Exercise 4\Chapter 4 Exercise 4\bin\Debug\Chapter 4 Exercise 4.exe.config
+\\vmware-host\Shared Folders\Desktop\Unit 2 Assignment\Chapter 4 Exercise 4\Chapter 4 Exercise 4\obj\Debug\Chapter 4 Exercise 4.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\Unit 2 Assignment\Chapter 4 Exercise 4\Chapter 4 Exercise 4\bin\Debug\Chapter 4 Exercise 4.exe
+\\vmware-host\Shared Folders\Desktop\Unit 2 Assignment\Chapter 4 Exercise 4\Chapter 4 Exercise 4\bin\Debug\Chapter 4 Exercise 4.pdb
+\\vmware-host\Shared Folders\Desktop\Unit 2 Assignment\Chapter 4 Exercise 4\Chapter 4 Exercise 4\obj\Debug\Chapter 4 Exercise 4.exe
+\\vmware-host\Shared Folders\Desktop\Unit 2 Assignment\Chapter 4 Exercise 4\Chapter 4 Exercise 4\obj\Debug\Chapter 4 Exercise 4.pdb
