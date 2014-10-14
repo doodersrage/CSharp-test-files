@@ -1,0 +1,5 @@
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\Chapter 6 Exercise 5\Chapter 6 Exercise 5\bin\Debug\Chapter 6 Exercise 5.exe.config
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\Chapter 6 Exercise 5\Chapter 6 Exercise 5\bin\Debug\Chapter 6 Exercise 5.exe
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\Chapter 6 Exercise 5\Chapter 6 Exercise 5\bin\Debug\Chapter 6 Exercise 5.pdb
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\Chapter 6 Exercise 5\Chapter 6 Exercise 5\obj\Debug\Chapter 6 Exercise 5.exe
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\Chapter 6 Exercise 5\Chapter 6 Exercise 5\obj\Debug\Chapter 6 Exercise 5.pdb

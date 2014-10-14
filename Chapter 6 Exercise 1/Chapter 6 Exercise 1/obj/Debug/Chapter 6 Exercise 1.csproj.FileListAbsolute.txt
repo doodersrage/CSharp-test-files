@@ -1,0 +1,6 @@
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\Chapter 6 Exercise 1\Chapter 6 Exercise 1\bin\Debug\Chapter 6 Exercise 1.exe.config
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\Chapter 6 Exercise 1\Chapter 6 Exercise 1\bin\Debug\Chapter 6 Exercise 1.exe
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\Chapter 6 Exercise 1\Chapter 6 Exercise 1\bin\Debug\Chapter 6 Exercise 1.pdb
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\Chapter 6 Exercise 1\Chapter 6 Exercise 1\obj\Debug\Chapter 6 Exercise 1.csprojResolveAssemblyReference.cache
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\Chapter 6 Exercise 1\Chapter 6 Exercise 1\obj\Debug\Chapter 6 Exercise 1.exe
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\Chapter 6 Exercise 1\Chapter 6 Exercise 1\obj\Debug\Chapter 6 Exercise 1.pdb
